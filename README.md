@@ -2,7 +2,7 @@
 
 # Programmer || Software Engineering 
 
-# AI Engineer Roadmap 2025/26
+# AI Engineer Roadmap
 
 - Job Category: `High`
 - Best for `Software Engineers`, `Data Scientists`, and `Robotics Enthusiasts`.
