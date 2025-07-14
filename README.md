@@ -338,3 +338,7 @@ This repository is continually updated based on the top `job postings` on **Link
 
 ## Other Roadmaps
 - [Read Roadmaps]()
+
+## License
+
+[MIT License](LICENSE)
